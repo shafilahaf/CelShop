@@ -13,3 +13,8 @@ h3{
 .rating span{
     margin: 0.1rem;
 }
+
+.btn-block{
+    min-width: 100%;
+    width: 100%;
+}
