@@ -12,7 +12,7 @@ const ProductScreen = ({ match }) => {
             <Link className="btn btn-light my-3" to='/'>Go Back</Link>
             <Row>
                 <Col md={6}>
-                    <Image src={product.image} alt={product.name} fluid/>
+                    <Image src={product.imageUrl} alt={product.name} fluid/>
                 </Col>
                 <Col md={3}>
                     <ListGroup variant='flush'>
