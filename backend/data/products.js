@@ -1,6 +1,5 @@
 const products = [
     {
-        _id: "1",
         name: "Divoom Ditoo Pixel Display Bluetooth Speaker",
         imageUrl: 'https://i.imgur.com/Ag0RpMg.jpg',
         description: 
@@ -13,7 +12,6 @@ const products = [
         numReviews: 4,
     },
     {
-        _id: "2",
         name: "Divoom Ditoo Retro Pixel Art Game Bluetooth Speaker",
         imageUrl: 'https://i.imgur.com/rcRyubt.jpg',
         description: 
@@ -26,7 +24,6 @@ const products = [
         numReviews: 3,
     },
     {
-        _id: "3",
         name: "Mixed Color Round Key Cap Wireless Keyboard And Mouse",
         imageUrl: 'https://i.imgur.com/XeZqdEs.jpg',
         description: 
@@ -39,7 +36,6 @@ const products = [
         numReviews: 5,
     },
     {
-        _id: "4",
         name: "Fujifilm Instax Mini 11 CameraSelfie",
         imageUrl: 'https://i.imgur.com/pbMCuVq.jpg',
         description: 
@@ -52,7 +48,6 @@ const products = [
         numReviews: 2,
     },
     {
-        _id: "5",
         name: "Waterproof Action Camera - Silver",
         imageUrl: 'https://i.imgur.com/hRok2PG.jpg',
         description: 
@@ -65,7 +60,6 @@ const products = [
         numReviews: 1,
     },
     {
-        _id: "6",
         name: "HP Sprocket Portable Bluetooth Photo Printer White",
         imageUrl: 'https://i.imgur.com/CqolzxN.jpg',
         description: 
