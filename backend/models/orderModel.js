@@ -1,4 +1,4 @@
-import mongoose, { mongo, Schema } from 'mongoose'
+import mongoose from 'mongoose'
 
 const orderSchema = mongoose.Schema({
     user: {
@@ -68,6 +68,6 @@ const orderSchema = mongoose.Schema({
 })
 
 
-const Order = mongoose.model('Order', userSchema)
+const Order = mongoose.model('Order', orderSchema)
 
 export default Order

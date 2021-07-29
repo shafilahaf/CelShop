@@ -1,4 +1,4 @@
-import mongoose, { Schema } from 'mongoose'
+import mongoose from 'mongoose'
 
 
 const reviewSchema = mongoose.Schema({
@@ -18,7 +18,7 @@ const productSchema = mongoose.Schema({
         type: String,
         required: true
     },
-    image: {
+    imageUrl: {
         type: String,
         required: true
     },
