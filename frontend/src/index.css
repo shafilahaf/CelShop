@@ -18,3 +18,17 @@ h3{
     min-width: 100%;
     width: 100%;
 }
+
+h1{
+    font-size: 1.8 rem;
+    padding: 1rem 0;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-size: 1.4 rem;
+    padding: 0.5rem 0;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
